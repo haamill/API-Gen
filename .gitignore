@@ -1,0 +1,5 @@
+/DEPLOYMENT_INFO.md
+/docker-compose.yml
+/cpa/
+/new-api/
+*.log
