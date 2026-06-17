@@ -1,5 +1,7 @@
 # CPA + NewAPI Deploy
 
+[中文文档](README.zh-CN.md)
+
 Pure-script deployment for running CLIProxyAPI/CPAMC and NewAPI together on a fresh Ubuntu/Debian server.
 
 The stack follows the upstream Docker deployment shape:
